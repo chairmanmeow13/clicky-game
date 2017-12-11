@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Images from "./components/Images";
+import Images from "./images";
 import photo from "./pictures.json";
 import shuffle from 'shuffle-array';
 

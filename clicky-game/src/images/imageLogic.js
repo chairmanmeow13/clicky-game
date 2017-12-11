@@ -1,5 +1,5 @@
 import React from "react";
-import "./Images.css";
+import "./imageInfo.css";
 
 const Images = props => (
 	<button onClick={() => props.setSelected(props.id)}>
